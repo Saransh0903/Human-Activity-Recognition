@@ -1,0 +1,564 @@
+,Domain,Measure,Statistic,Device,Angle,Magnitude,Direction,Names
+0,Time,Body Acceleration,Mean,Accelerometer,No,No,X,tBodyAcc-mean()-X
+1,Time,Body Acceleration,Mean,Accelerometer,No,No,Y,tBodyAcc-mean()-Y
+2,Time,Body Acceleration,Mean,Accelerometer,No,No,Z,tBodyAcc-mean()-Z
+3,Time,Body Acceleration,Standard Deviation,Accelerometer,No,No,X,tBodyAcc-std()-X
+4,Time,Body Acceleration,Standard Deviation,Accelerometer,No,No,Y,tBodyAcc-std()-Y
+5,Time,Body Acceleration,Standard Deviation,Accelerometer,No,No,Z,tBodyAcc-std()-Z
+6,Time,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,X,tBodyAcc-mad()-X
+7,Time,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,Y,tBodyAcc-mad()-Y
+8,Time,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,Z,tBodyAcc-mad()-Z
+9,Time,Body Acceleration,Maximum,Accelerometer,No,No,X,tBodyAcc-max()-X
+10,Time,Body Acceleration,Maximum,Accelerometer,No,No,Y,tBodyAcc-max()-Y
+11,Time,Body Acceleration,Maximum,Accelerometer,No,No,Z,tBodyAcc-max()-Z
+12,Time,Body Acceleration,Minimum,Accelerometer,No,No,X,tBodyAcc-min()-X
+13,Time,Body Acceleration,Minimum,Accelerometer,No,No,Y,tBodyAcc-min()-Y
+14,Time,Body Acceleration,Minimum,Accelerometer,No,No,Z,tBodyAcc-min()-Z
+15,Time,Body Acceleration,sma,Accelerometer,No,No,,tBodyAcc-sma()
+16,Time,Body Acceleration,Energy,Accelerometer,No,No,X,tBodyAcc-energy()-X
+17,Time,Body Acceleration,Energy,Accelerometer,No,No,Y,tBodyAcc-energy()-Y
+18,Time,Body Acceleration,Energy,Accelerometer,No,No,Z,tBodyAcc-energy()-Z
+19,Time,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,X,tBodyAcc-iqr()-X
+20,Time,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,Y,tBodyAcc-iqr()-Y
+21,Time,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,Z,tBodyAcc-iqr()-Z
+22,Time,Body Acceleration,Entropy,Accelerometer,No,No,X,tBodyAcc-entropy()-X
+23,Time,Body Acceleration,Entropy,Accelerometer,No,No,Y,tBodyAcc-entropy()-Y
+24,Time,Body Acceleration,Entropy,Accelerometer,No,No,Z,tBodyAcc-entropy()-Z
+25,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tBodyAcc-arCoeff()-X,1"
+26,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tBodyAcc-arCoeff()-X,2"
+27,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tBodyAcc-arCoeff()-X,3"
+28,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tBodyAcc-arCoeff()-X,4"
+29,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tBodyAcc-arCoeff()-Y,1"
+30,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tBodyAcc-arCoeff()-Y,2"
+31,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tBodyAcc-arCoeff()-Y,3"
+32,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tBodyAcc-arCoeff()-Y,4"
+33,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tBodyAcc-arCoeff()-Z,1"
+34,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tBodyAcc-arCoeff()-Z,2"
+35,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tBodyAcc-arCoeff()-Z,3"
+36,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tBodyAcc-arCoeff()-Z,4"
+37,Time,Body Acceleration,,Accelerometer,No,No,X,"tBodyAcc-correlation()-X,Y"
+38,Time,Body Acceleration,,Accelerometer,No,No,X,"tBodyAcc-correlation()-X,Z"
+39,Time,Body Acceleration,,Accelerometer,No,No,Y,"tBodyAcc-correlation()-Y,Z"
+40,Time,Gravity Acceleration,Mean,Accelerometer,No,No,X,tGravityAcc-mean()-X
+41,Time,Gravity Acceleration,Mean,Accelerometer,No,No,Y,tGravityAcc-mean()-Y
+42,Time,Gravity Acceleration,Mean,Accelerometer,No,No,Z,tGravityAcc-mean()-Z
+43,Time,Gravity Acceleration,Standard Deviation,Accelerometer,No,No,X,tGravityAcc-std()-X
+44,Time,Gravity Acceleration,Standard Deviation,Accelerometer,No,No,Y,tGravityAcc-std()-Y
+45,Time,Gravity Acceleration,Standard Deviation,Accelerometer,No,No,Z,tGravityAcc-std()-Z
+46,Time,Gravity Acceleration,Median Absolute Deviation,Accelerometer,No,No,X,tGravityAcc-mad()-X
+47,Time,Gravity Acceleration,Median Absolute Deviation,Accelerometer,No,No,Y,tGravityAcc-mad()-Y
+48,Time,Gravity Acceleration,Median Absolute Deviation,Accelerometer,No,No,Z,tGravityAcc-mad()-Z
+49,Time,Gravity Acceleration,Maximum,Accelerometer,No,No,X,tGravityAcc-max()-X
+50,Time,Gravity Acceleration,Maximum,Accelerometer,No,No,Y,tGravityAcc-max()-Y
+51,Time,Gravity Acceleration,Maximum,Accelerometer,No,No,Z,tGravityAcc-max()-Z
+52,Time,Gravity Acceleration,Minimum,Accelerometer,No,No,X,tGravityAcc-min()-X
+53,Time,Gravity Acceleration,Minimum,Accelerometer,No,No,Y,tGravityAcc-min()-Y
+54,Time,Gravity Acceleration,Minimum,Accelerometer,No,No,Z,tGravityAcc-min()-Z
+55,Time,Gravity Acceleration,sma,Accelerometer,No,No,,tGravityAcc-sma()
+56,Time,Gravity Acceleration,Energy,Accelerometer,No,No,X,tGravityAcc-energy()-X
+57,Time,Gravity Acceleration,Energy,Accelerometer,No,No,Y,tGravityAcc-energy()-Y
+58,Time,Gravity Acceleration,Energy,Accelerometer,No,No,Z,tGravityAcc-energy()-Z
+59,Time,Gravity Acceleration,Inter Quartile Range,Accelerometer,No,No,X,tGravityAcc-iqr()-X
+60,Time,Gravity Acceleration,Inter Quartile Range,Accelerometer,No,No,Y,tGravityAcc-iqr()-Y
+61,Time,Gravity Acceleration,Inter Quartile Range,Accelerometer,No,No,Z,tGravityAcc-iqr()-Z
+62,Time,Gravity Acceleration,Entropy,Accelerometer,No,No,X,tGravityAcc-entropy()-X
+63,Time,Gravity Acceleration,Entropy,Accelerometer,No,No,Y,tGravityAcc-entropy()-Y
+64,Time,Gravity Acceleration,Entropy,Accelerometer,No,No,Z,tGravityAcc-entropy()-Z
+65,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tGravityAcc-arCoeff()-X,1"
+66,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tGravityAcc-arCoeff()-X,2"
+67,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tGravityAcc-arCoeff()-X,3"
+68,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tGravityAcc-arCoeff()-X,4"
+69,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tGravityAcc-arCoeff()-Y,1"
+70,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tGravityAcc-arCoeff()-Y,2"
+71,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tGravityAcc-arCoeff()-Y,3"
+72,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tGravityAcc-arCoeff()-Y,4"
+73,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tGravityAcc-arCoeff()-Z,1"
+74,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tGravityAcc-arCoeff()-Z,2"
+75,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tGravityAcc-arCoeff()-Z,3"
+76,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tGravityAcc-arCoeff()-Z,4"
+77,Time,Gravity Acceleration,,Accelerometer,No,No,X,"tGravityAcc-correlation()-X,Y"
+78,Time,Gravity Acceleration,,Accelerometer,No,No,X,"tGravityAcc-correlation()-X,Z"
+79,Time,Gravity Acceleration,,Accelerometer,No,No,Y,"tGravityAcc-correlation()-Y,Z"
+80,Time,Body Acceleration,Mean,Accelerometer,No,No,X,tBodyAccJerk-mean()-X
+81,Time,Body Acceleration,Mean,Accelerometer,No,No,Y,tBodyAccJerk-mean()-Y
+82,Time,Body Acceleration,Mean,Accelerometer,No,No,Z,tBodyAccJerk-mean()-Z
+83,Time,Body Acceleration,Standard Deviation,Accelerometer,No,No,X,tBodyAccJerk-std()-X
+84,Time,Body Acceleration,Standard Deviation,Accelerometer,No,No,Y,tBodyAccJerk-std()-Y
+85,Time,Body Acceleration,Standard Deviation,Accelerometer,No,No,Z,tBodyAccJerk-std()-Z
+86,Time,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,X,tBodyAccJerk-mad()-X
+87,Time,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,Y,tBodyAccJerk-mad()-Y
+88,Time,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,Z,tBodyAccJerk-mad()-Z
+89,Time,Body Acceleration,Maximum,Accelerometer,No,No,X,tBodyAccJerk-max()-X
+90,Time,Body Acceleration,Maximum,Accelerometer,No,No,Y,tBodyAccJerk-max()-Y
+91,Time,Body Acceleration,Maximum,Accelerometer,No,No,Z,tBodyAccJerk-max()-Z
+92,Time,Body Acceleration,Minimum,Accelerometer,No,No,X,tBodyAccJerk-min()-X
+93,Time,Body Acceleration,Minimum,Accelerometer,No,No,Y,tBodyAccJerk-min()-Y
+94,Time,Body Acceleration,Minimum,Accelerometer,No,No,Z,tBodyAccJerk-min()-Z
+95,Time,Body Acceleration,sma,Accelerometer,No,No,,tBodyAccJerk-sma()
+96,Time,Body Acceleration,Energy,Accelerometer,No,No,X,tBodyAccJerk-energy()-X
+97,Time,Body Acceleration,Energy,Accelerometer,No,No,Y,tBodyAccJerk-energy()-Y
+98,Time,Body Acceleration,Energy,Accelerometer,No,No,Z,tBodyAccJerk-energy()-Z
+99,Time,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,X,tBodyAccJerk-iqr()-X
+100,Time,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,Y,tBodyAccJerk-iqr()-Y
+101,Time,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,Z,tBodyAccJerk-iqr()-Z
+102,Time,Body Acceleration,Entropy,Accelerometer,No,No,X,tBodyAccJerk-entropy()-X
+103,Time,Body Acceleration,Entropy,Accelerometer,No,No,Y,tBodyAccJerk-entropy()-Y
+104,Time,Body Acceleration,Entropy,Accelerometer,No,No,Z,tBodyAccJerk-entropy()-Z
+105,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tBodyAccJerk-arCoeff()-X,1"
+106,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tBodyAccJerk-arCoeff()-X,2"
+107,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tBodyAccJerk-arCoeff()-X,3"
+108,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,X,"tBodyAccJerk-arCoeff()-X,4"
+109,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tBodyAccJerk-arCoeff()-Y,1"
+110,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tBodyAccJerk-arCoeff()-Y,2"
+111,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tBodyAccJerk-arCoeff()-Y,3"
+112,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Y,"tBodyAccJerk-arCoeff()-Y,4"
+113,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tBodyAccJerk-arCoeff()-Z,1"
+114,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tBodyAccJerk-arCoeff()-Z,2"
+115,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tBodyAccJerk-arCoeff()-Z,3"
+116,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,No,Z,"tBodyAccJerk-arCoeff()-Z,4"
+117,Time,Body Acceleration,,Accelerometer,No,No,X,"tBodyAccJerk-correlation()-X,Y"
+118,Time,Body Acceleration,,Accelerometer,No,No,X,"tBodyAccJerk-correlation()-X,Z"
+119,Time,Body Acceleration,,Accelerometer,No,No,Y,"tBodyAccJerk-correlation()-Y,Z"
+120,Time,Body Gyroscope,Mean,Gyroscope,No,No,X,tBodyGyro-mean()-X
+121,Time,Body Gyroscope,Mean,Gyroscope,No,No,Y,tBodyGyro-mean()-Y
+122,Time,Body Gyroscope,Mean,Gyroscope,No,No,Z,tBodyGyro-mean()-Z
+123,Time,Body Gyroscope,Standard Deviation,Gyroscope,No,No,X,tBodyGyro-std()-X
+124,Time,Body Gyroscope,Standard Deviation,Gyroscope,No,No,Y,tBodyGyro-std()-Y
+125,Time,Body Gyroscope,Standard Deviation,Gyroscope,No,No,Z,tBodyGyro-std()-Z
+126,Time,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,X,tBodyGyro-mad()-X
+127,Time,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,Y,tBodyGyro-mad()-Y
+128,Time,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,Z,tBodyGyro-mad()-Z
+129,Time,Body Gyroscope,Maximum,Gyroscope,No,No,X,tBodyGyro-max()-X
+130,Time,Body Gyroscope,Maximum,Gyroscope,No,No,Y,tBodyGyro-max()-Y
+131,Time,Body Gyroscope,Maximum,Gyroscope,No,No,Z,tBodyGyro-max()-Z
+132,Time,Body Gyroscope,Minimum,Gyroscope,No,No,X,tBodyGyro-min()-X
+133,Time,Body Gyroscope,Minimum,Gyroscope,No,No,Y,tBodyGyro-min()-Y
+134,Time,Body Gyroscope,Minimum,Gyroscope,No,No,Z,tBodyGyro-min()-Z
+135,Time,Body Gyroscope,sma,Gyroscope,No,No,,tBodyGyro-sma()
+136,Time,Body Gyroscope,Energy,Gyroscope,No,No,X,tBodyGyro-energy()-X
+137,Time,Body Gyroscope,Energy,Gyroscope,No,No,Y,tBodyGyro-energy()-Y
+138,Time,Body Gyroscope,Energy,Gyroscope,No,No,Z,tBodyGyro-energy()-Z
+139,Time,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,X,tBodyGyro-iqr()-X
+140,Time,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,Y,tBodyGyro-iqr()-Y
+141,Time,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,Z,tBodyGyro-iqr()-Z
+142,Time,Body Gyroscope,Entropy,Gyroscope,No,No,X,tBodyGyro-entropy()-X
+143,Time,Body Gyroscope,Entropy,Gyroscope,No,No,Y,tBodyGyro-entropy()-Y
+144,Time,Body Gyroscope,Entropy,Gyroscope,No,No,Z,tBodyGyro-entropy()-Z
+145,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,X,"tBodyGyro-arCoeff()-X,1"
+146,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,X,"tBodyGyro-arCoeff()-X,2"
+147,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,X,"tBodyGyro-arCoeff()-X,3"
+148,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,X,"tBodyGyro-arCoeff()-X,4"
+149,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Y,"tBodyGyro-arCoeff()-Y,1"
+150,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Y,"tBodyGyro-arCoeff()-Y,2"
+151,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Y,"tBodyGyro-arCoeff()-Y,3"
+152,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Y,"tBodyGyro-arCoeff()-Y,4"
+153,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Z,"tBodyGyro-arCoeff()-Z,1"
+154,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Z,"tBodyGyro-arCoeff()-Z,2"
+155,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Z,"tBodyGyro-arCoeff()-Z,3"
+156,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Z,"tBodyGyro-arCoeff()-Z,4"
+157,Time,Body Gyroscope,,Gyroscope,No,No,X,"tBodyGyro-correlation()-X,Y"
+158,Time,Body Gyroscope,,Gyroscope,No,No,X,"tBodyGyro-correlation()-X,Z"
+159,Time,Body Gyroscope,,Gyroscope,No,No,Y,"tBodyGyro-correlation()-Y,Z"
+160,Time,Body Gyroscope,Mean,Gyroscope,No,No,X,tBodyGyroJerk-mean()-X
+161,Time,Body Gyroscope,Mean,Gyroscope,No,No,Y,tBodyGyroJerk-mean()-Y
+162,Time,Body Gyroscope,Mean,Gyroscope,No,No,Z,tBodyGyroJerk-mean()-Z
+163,Time,Body Gyroscope,Standard Deviation,Gyroscope,No,No,X,tBodyGyroJerk-std()-X
+164,Time,Body Gyroscope,Standard Deviation,Gyroscope,No,No,Y,tBodyGyroJerk-std()-Y
+165,Time,Body Gyroscope,Standard Deviation,Gyroscope,No,No,Z,tBodyGyroJerk-std()-Z
+166,Time,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,X,tBodyGyroJerk-mad()-X
+167,Time,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,Y,tBodyGyroJerk-mad()-Y
+168,Time,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,Z,tBodyGyroJerk-mad()-Z
+169,Time,Body Gyroscope,Maximum,Gyroscope,No,No,X,tBodyGyroJerk-max()-X
+170,Time,Body Gyroscope,Maximum,Gyroscope,No,No,Y,tBodyGyroJerk-max()-Y
+171,Time,Body Gyroscope,Maximum,Gyroscope,No,No,Z,tBodyGyroJerk-max()-Z
+172,Time,Body Gyroscope,Minimum,Gyroscope,No,No,X,tBodyGyroJerk-min()-X
+173,Time,Body Gyroscope,Minimum,Gyroscope,No,No,Y,tBodyGyroJerk-min()-Y
+174,Time,Body Gyroscope,Minimum,Gyroscope,No,No,Z,tBodyGyroJerk-min()-Z
+175,Time,Body Gyroscope,sma,Gyroscope,No,No,,tBodyGyroJerk-sma()
+176,Time,Body Gyroscope,Energy,Gyroscope,No,No,X,tBodyGyroJerk-energy()-X
+177,Time,Body Gyroscope,Energy,Gyroscope,No,No,Y,tBodyGyroJerk-energy()-Y
+178,Time,Body Gyroscope,Energy,Gyroscope,No,No,Z,tBodyGyroJerk-energy()-Z
+179,Time,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,X,tBodyGyroJerk-iqr()-X
+180,Time,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,Y,tBodyGyroJerk-iqr()-Y
+181,Time,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,Z,tBodyGyroJerk-iqr()-Z
+182,Time,Body Gyroscope,Entropy,Gyroscope,No,No,X,tBodyGyroJerk-entropy()-X
+183,Time,Body Gyroscope,Entropy,Gyroscope,No,No,Y,tBodyGyroJerk-entropy()-Y
+184,Time,Body Gyroscope,Entropy,Gyroscope,No,No,Z,tBodyGyroJerk-entropy()-Z
+185,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,X,"tBodyGyroJerk-arCoeff()-X,1"
+186,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,X,"tBodyGyroJerk-arCoeff()-X,2"
+187,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,X,"tBodyGyroJerk-arCoeff()-X,3"
+188,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,X,"tBodyGyroJerk-arCoeff()-X,4"
+189,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Y,"tBodyGyroJerk-arCoeff()-Y,1"
+190,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Y,"tBodyGyroJerk-arCoeff()-Y,2"
+191,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Y,"tBodyGyroJerk-arCoeff()-Y,3"
+192,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Y,"tBodyGyroJerk-arCoeff()-Y,4"
+193,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Z,"tBodyGyroJerk-arCoeff()-Z,1"
+194,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Z,"tBodyGyroJerk-arCoeff()-Z,2"
+195,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Z,"tBodyGyroJerk-arCoeff()-Z,3"
+196,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,No,Z,"tBodyGyroJerk-arCoeff()-Z,4"
+197,Time,Body Gyroscope,,Gyroscope,No,No,X,"tBodyGyroJerk-correlation()-X,Y"
+198,Time,Body Gyroscope,,Gyroscope,No,No,X,"tBodyGyroJerk-correlation()-X,Z"
+199,Time,Body Gyroscope,,Gyroscope,No,No,Y,"tBodyGyroJerk-correlation()-Y,Z"
+200,Time,Body Acceleration,Mean,Accelerometer,No,Yes,,tBodyAccMag-mean()
+201,Time,Body Acceleration,Standard Deviation,Accelerometer,No,Yes,,tBodyAccMag-std()
+202,Time,Body Acceleration,Median Absolute Deviation,Accelerometer,No,Yes,,tBodyAccMag-mad()
+203,Time,Body Acceleration,Maximum,Accelerometer,No,Yes,,tBodyAccMag-max()
+204,Time,Body Acceleration,Minimum,Accelerometer,No,Yes,,tBodyAccMag-min()
+205,Time,Body Acceleration,sma,Accelerometer,No,Yes,,tBodyAccMag-sma()
+206,Time,Body Acceleration,Energy,Accelerometer,No,Yes,,tBodyAccMag-energy()
+207,Time,Body Acceleration,Inter Quartile Range,Accelerometer,No,Yes,,tBodyAccMag-iqr()
+208,Time,Body Acceleration,Entropy,Accelerometer,No,Yes,,tBodyAccMag-entropy()
+209,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tBodyAccMag-arCoeff()1
+210,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tBodyAccMag-arCoeff()2
+211,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tBodyAccMag-arCoeff()3
+212,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tBodyAccMag-arCoeff()4
+213,Time,Gravity Acceleration,Mean,Accelerometer,No,Yes,,tGravityAccMag-mean()
+214,Time,Gravity Acceleration,Standard Deviation,Accelerometer,No,Yes,,tGravityAccMag-std()
+215,Time,Gravity Acceleration,Median Absolute Deviation,Accelerometer,No,Yes,,tGravityAccMag-mad()
+216,Time,Gravity Acceleration,Maximum,Accelerometer,No,Yes,,tGravityAccMag-max()
+217,Time,Gravity Acceleration,Minimum,Accelerometer,No,Yes,,tGravityAccMag-min()
+218,Time,Gravity Acceleration,sma,Accelerometer,No,Yes,,tGravityAccMag-sma()
+219,Time,Gravity Acceleration,Energy,Accelerometer,No,Yes,,tGravityAccMag-energy()
+220,Time,Gravity Acceleration,Inter Quartile Range,Accelerometer,No,Yes,,tGravityAccMag-iqr()
+221,Time,Gravity Acceleration,Entropy,Accelerometer,No,Yes,,tGravityAccMag-entropy()
+222,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tGravityAccMag-arCoeff()1
+223,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tGravityAccMag-arCoeff()2
+224,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tGravityAccMag-arCoeff()3
+225,Time,Gravity Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tGravityAccMag-arCoeff()4
+226,Time,Body Acceleration,Mean,Accelerometer,No,Yes,,tBodyAccJerkMag-mean()
+227,Time,Body Acceleration,Standard Deviation,Accelerometer,No,Yes,,tBodyAccJerkMag-std()
+228,Time,Body Acceleration,Median Absolute Deviation,Accelerometer,No,Yes,,tBodyAccJerkMag-mad()
+229,Time,Body Acceleration,Maximum,Accelerometer,No,Yes,,tBodyAccJerkMag-max()
+230,Time,Body Acceleration,Minimum,Accelerometer,No,Yes,,tBodyAccJerkMag-min()
+231,Time,Body Acceleration,sma,Accelerometer,No,Yes,,tBodyAccJerkMag-sma()
+232,Time,Body Acceleration,Energy,Accelerometer,No,Yes,,tBodyAccJerkMag-energy()
+233,Time,Body Acceleration,Inter Quartile Range,Accelerometer,No,Yes,,tBodyAccJerkMag-iqr()
+234,Time,Body Acceleration,Entropy,Accelerometer,No,Yes,,tBodyAccJerkMag-entropy()
+235,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tBodyAccJerkMag-arCoeff()1
+236,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tBodyAccJerkMag-arCoeff()2
+237,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tBodyAccJerkMag-arCoeff()3
+238,Time,Body Acceleration,Autoregression Coefficient,Accelerometer,No,Yes,,tBodyAccJerkMag-arCoeff()4
+239,Time,Body Gyroscope,Mean,Gyroscope,No,Yes,,tBodyGyroMag-mean()
+240,Time,Body Gyroscope,Standard Deviation,Gyroscope,No,Yes,,tBodyGyroMag-std()
+241,Time,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,Yes,,tBodyGyroMag-mad()
+242,Time,Body Gyroscope,Maximum,Gyroscope,No,Yes,,tBodyGyroMag-max()
+243,Time,Body Gyroscope,Minimum,Gyroscope,No,Yes,,tBodyGyroMag-min()
+244,Time,Body Gyroscope,sma,Gyroscope,No,Yes,,tBodyGyroMag-sma()
+245,Time,Body Gyroscope,Energy,Gyroscope,No,Yes,,tBodyGyroMag-energy()
+246,Time,Body Gyroscope,Inter Quartile Range,Gyroscope,No,Yes,,tBodyGyroMag-iqr()
+247,Time,Body Gyroscope,Entropy,Gyroscope,No,Yes,,tBodyGyroMag-entropy()
+248,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,Yes,,tBodyGyroMag-arCoeff()1
+249,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,Yes,,tBodyGyroMag-arCoeff()2
+250,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,Yes,,tBodyGyroMag-arCoeff()3
+251,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,Yes,,tBodyGyroMag-arCoeff()4
+252,Time,Body Gyroscope,Mean,Gyroscope,No,Yes,,tBodyGyroJerkMag-mean()
+253,Time,Body Gyroscope,Standard Deviation,Gyroscope,No,Yes,,tBodyGyroJerkMag-std()
+254,Time,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,Yes,,tBodyGyroJerkMag-mad()
+255,Time,Body Gyroscope,Maximum,Gyroscope,No,Yes,,tBodyGyroJerkMag-max()
+256,Time,Body Gyroscope,Minimum,Gyroscope,No,Yes,,tBodyGyroJerkMag-min()
+257,Time,Body Gyroscope,sma,Gyroscope,No,Yes,,tBodyGyroJerkMag-sma()
+258,Time,Body Gyroscope,Energy,Gyroscope,No,Yes,,tBodyGyroJerkMag-energy()
+259,Time,Body Gyroscope,Inter Quartile Range,Gyroscope,No,Yes,,tBodyGyroJerkMag-iqr()
+260,Time,Body Gyroscope,Entropy,Gyroscope,No,Yes,,tBodyGyroJerkMag-entropy()
+261,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,Yes,,tBodyGyroJerkMag-arCoeff()1
+262,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,Yes,,tBodyGyroJerkMag-arCoeff()2
+263,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,Yes,,tBodyGyroJerkMag-arCoeff()3
+264,Time,Body Gyroscope,Autoregression Coefficient,Gyroscope,No,Yes,,tBodyGyroJerkMag-arCoeff()4
+265,Frequency,Body Acceleration,Mean,Accelerometer,No,No,X,fBodyAcc-mean()-X
+266,Frequency,Body Acceleration,Mean,Accelerometer,No,No,Y,fBodyAcc-mean()-Y
+267,Frequency,Body Acceleration,Mean,Accelerometer,No,No,Z,fBodyAcc-mean()-Z
+268,Frequency,Body Acceleration,Standard Deviation,Accelerometer,No,No,X,fBodyAcc-std()-X
+269,Frequency,Body Acceleration,Standard Deviation,Accelerometer,No,No,Y,fBodyAcc-std()-Y
+270,Frequency,Body Acceleration,Standard Deviation,Accelerometer,No,No,Z,fBodyAcc-std()-Z
+271,Frequency,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,X,fBodyAcc-mad()-X
+272,Frequency,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,Y,fBodyAcc-mad()-Y
+273,Frequency,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,Z,fBodyAcc-mad()-Z
+274,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,X,fBodyAcc-max()-X
+275,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,Y,fBodyAcc-max()-Y
+276,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,Z,fBodyAcc-max()-Z
+277,Frequency,Body Acceleration,Minimum,Accelerometer,No,No,X,fBodyAcc-min()-X
+278,Frequency,Body Acceleration,Minimum,Accelerometer,No,No,Y,fBodyAcc-min()-Y
+279,Frequency,Body Acceleration,Minimum,Accelerometer,No,No,Z,fBodyAcc-min()-Z
+280,Frequency,Body Acceleration,sma,Accelerometer,No,No,,fBodyAcc-sma()
+281,Frequency,Body Acceleration,Energy,Accelerometer,No,No,X,fBodyAcc-energy()-X
+282,Frequency,Body Acceleration,Energy,Accelerometer,No,No,Y,fBodyAcc-energy()-Y
+283,Frequency,Body Acceleration,Energy,Accelerometer,No,No,Z,fBodyAcc-energy()-Z
+284,Frequency,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,X,fBodyAcc-iqr()-X
+285,Frequency,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,Y,fBodyAcc-iqr()-Y
+286,Frequency,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,Z,fBodyAcc-iqr()-Z
+287,Frequency,Body Acceleration,Entropy,Accelerometer,No,No,X,fBodyAcc-entropy()-X
+288,Frequency,Body Acceleration,Entropy,Accelerometer,No,No,Y,fBodyAcc-entropy()-Y
+289,Frequency,Body Acceleration,Entropy,Accelerometer,No,No,Z,fBodyAcc-entropy()-Z
+290,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,X,fBodyAcc-maxInds-X
+291,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,Y,fBodyAcc-maxInds-Y
+292,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,Z,fBodyAcc-maxInds-Z
+293,Frequency,Body Acceleration,Mean,Accelerometer,No,No,X,fBodyAcc-meanFreq()-X
+294,Frequency,Body Acceleration,Mean,Accelerometer,No,No,Y,fBodyAcc-meanFreq()-Y
+295,Frequency,Body Acceleration,Mean,Accelerometer,No,No,Z,fBodyAcc-meanFreq()-Z
+296,Frequency,Body Acceleration,Skewness,Accelerometer,No,No,X,fBodyAcc-skewness()-X
+297,Frequency,Body Acceleration,Kurtosis,Accelerometer,No,No,X,fBodyAcc-kurtosis()-X
+298,Frequency,Body Acceleration,Skewness,Accelerometer,No,No,Y,fBodyAcc-skewness()-Y
+299,Frequency,Body Acceleration,Kurtosis,Accelerometer,No,No,Y,fBodyAcc-kurtosis()-Y
+300,Frequency,Body Acceleration,Skewness,Accelerometer,No,No,Z,fBodyAcc-skewness()-Z
+301,Frequency,Body Acceleration,Kurtosis,Accelerometer,No,No,Z,fBodyAcc-kurtosis()-Z
+302,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,8"
+303,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-9,16"
+304,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-17,24"
+305,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-25,32"
+306,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-33,40"
+307,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-41,48"
+308,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-49,56"
+309,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-57,64"
+310,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,16"
+311,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-17,32"
+312,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-33,48"
+313,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-49,64"
+314,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,24"
+315,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-25,48"
+316,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,8.1"
+317,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-9,16.1"
+318,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-17,24.1"
+319,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-25,32.1"
+320,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-33,40.1"
+321,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-41,48.1"
+322,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-49,56.1"
+323,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-57,64.1"
+324,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,16.1"
+325,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-17,32.1"
+326,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-33,48.1"
+327,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-49,64.1"
+328,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,24.1"
+329,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-25,48.1"
+330,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,8.2"
+331,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-9,16.2"
+332,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-17,24.2"
+333,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-25,32.2"
+334,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-33,40.2"
+335,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-41,48.2"
+336,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-49,56.2"
+337,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-57,64.2"
+338,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,16.2"
+339,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-17,32.2"
+340,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-33,48.2"
+341,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-49,64.2"
+342,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-1,24.2"
+343,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAcc-bandsEnergy()-25,48.2"
+344,Frequency,Body Acceleration,Mean,Accelerometer,No,No,X,fBodyAccJerk-mean()-X
+345,Frequency,Body Acceleration,Mean,Accelerometer,No,No,Y,fBodyAccJerk-mean()-Y
+346,Frequency,Body Acceleration,Mean,Accelerometer,No,No,Z,fBodyAccJerk-mean()-Z
+347,Frequency,Body Acceleration,Standard Deviation,Accelerometer,No,No,X,fBodyAccJerk-std()-X
+348,Frequency,Body Acceleration,Standard Deviation,Accelerometer,No,No,Y,fBodyAccJerk-std()-Y
+349,Frequency,Body Acceleration,Standard Deviation,Accelerometer,No,No,Z,fBodyAccJerk-std()-Z
+350,Frequency,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,X,fBodyAccJerk-mad()-X
+351,Frequency,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,Y,fBodyAccJerk-mad()-Y
+352,Frequency,Body Acceleration,Median Absolute Deviation,Accelerometer,No,No,Z,fBodyAccJerk-mad()-Z
+353,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,X,fBodyAccJerk-max()-X
+354,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,Y,fBodyAccJerk-max()-Y
+355,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,Z,fBodyAccJerk-max()-Z
+356,Frequency,Body Acceleration,Minimum,Accelerometer,No,No,X,fBodyAccJerk-min()-X
+357,Frequency,Body Acceleration,Minimum,Accelerometer,No,No,Y,fBodyAccJerk-min()-Y
+358,Frequency,Body Acceleration,Minimum,Accelerometer,No,No,Z,fBodyAccJerk-min()-Z
+359,Frequency,Body Acceleration,sma,Accelerometer,No,No,,fBodyAccJerk-sma()
+360,Frequency,Body Acceleration,Energy,Accelerometer,No,No,X,fBodyAccJerk-energy()-X
+361,Frequency,Body Acceleration,Energy,Accelerometer,No,No,Y,fBodyAccJerk-energy()-Y
+362,Frequency,Body Acceleration,Energy,Accelerometer,No,No,Z,fBodyAccJerk-energy()-Z
+363,Frequency,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,X,fBodyAccJerk-iqr()-X
+364,Frequency,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,Y,fBodyAccJerk-iqr()-Y
+365,Frequency,Body Acceleration,Inter Quartile Range,Accelerometer,No,No,Z,fBodyAccJerk-iqr()-Z
+366,Frequency,Body Acceleration,Entropy,Accelerometer,No,No,X,fBodyAccJerk-entropy()-X
+367,Frequency,Body Acceleration,Entropy,Accelerometer,No,No,Y,fBodyAccJerk-entropy()-Y
+368,Frequency,Body Acceleration,Entropy,Accelerometer,No,No,Z,fBodyAccJerk-entropy()-Z
+369,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,X,fBodyAccJerk-maxInds-X
+370,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,Y,fBodyAccJerk-maxInds-Y
+371,Frequency,Body Acceleration,Maximum,Accelerometer,No,No,Z,fBodyAccJerk-maxInds-Z
+372,Frequency,Body Acceleration,Mean,Accelerometer,No,No,X,fBodyAccJerk-meanFreq()-X
+373,Frequency,Body Acceleration,Mean,Accelerometer,No,No,Y,fBodyAccJerk-meanFreq()-Y
+374,Frequency,Body Acceleration,Mean,Accelerometer,No,No,Z,fBodyAccJerk-meanFreq()-Z
+375,Frequency,Body Acceleration,Skewness,Accelerometer,No,No,X,fBodyAccJerk-skewness()-X
+376,Frequency,Body Acceleration,Kurtosis,Accelerometer,No,No,X,fBodyAccJerk-kurtosis()-X
+377,Frequency,Body Acceleration,Skewness,Accelerometer,No,No,Y,fBodyAccJerk-skewness()-Y
+378,Frequency,Body Acceleration,Kurtosis,Accelerometer,No,No,Y,fBodyAccJerk-kurtosis()-Y
+379,Frequency,Body Acceleration,Skewness,Accelerometer,No,No,Z,fBodyAccJerk-skewness()-Z
+380,Frequency,Body Acceleration,Kurtosis,Accelerometer,No,No,Z,fBodyAccJerk-kurtosis()-Z
+381,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,8"
+382,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-9,16"
+383,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-17,24"
+384,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-25,32"
+385,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-33,40"
+386,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-41,48"
+387,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-49,56"
+388,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-57,64"
+389,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,16"
+390,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-17,32"
+391,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-33,48"
+392,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-49,64"
+393,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,24"
+394,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-25,48"
+395,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,8.1"
+396,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-9,16.1"
+397,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-17,24.1"
+398,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-25,32.1"
+399,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-33,40.1"
+400,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-41,48.1"
+401,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-49,56.1"
+402,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-57,64.1"
+403,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,16.1"
+404,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-17,32.1"
+405,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-33,48.1"
+406,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-49,64.1"
+407,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,24.1"
+408,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-25,48.1"
+409,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,8.2"
+410,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-9,16.2"
+411,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-17,24.2"
+412,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-25,32.2"
+413,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-33,40.2"
+414,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-41,48.2"
+415,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-49,56.2"
+416,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-57,64.2"
+417,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,16.2"
+418,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-17,32.2"
+419,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-33,48.2"
+420,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-49,64.2"
+421,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-1,24.2"
+422,Frequency,Body Acceleration,Band Energy,Accelerometer,No,No,,"fBodyAccJerk-bandsEnergy()-25,48.2"
+423,Frequency,Body Gyroscope,Mean,Gyroscope,No,No,X,fBodyGyro-mean()-X
+424,Frequency,Body Gyroscope,Mean,Gyroscope,No,No,Y,fBodyGyro-mean()-Y
+425,Frequency,Body Gyroscope,Mean,Gyroscope,No,No,Z,fBodyGyro-mean()-Z
+426,Frequency,Body Gyroscope,Standard Deviation,Gyroscope,No,No,X,fBodyGyro-std()-X
+427,Frequency,Body Gyroscope,Standard Deviation,Gyroscope,No,No,Y,fBodyGyro-std()-Y
+428,Frequency,Body Gyroscope,Standard Deviation,Gyroscope,No,No,Z,fBodyGyro-std()-Z
+429,Frequency,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,X,fBodyGyro-mad()-X
+430,Frequency,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,Y,fBodyGyro-mad()-Y
+431,Frequency,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,No,Z,fBodyGyro-mad()-Z
+432,Frequency,Body Gyroscope,Maximum,Gyroscope,No,No,X,fBodyGyro-max()-X
+433,Frequency,Body Gyroscope,Maximum,Gyroscope,No,No,Y,fBodyGyro-max()-Y
+434,Frequency,Body Gyroscope,Maximum,Gyroscope,No,No,Z,fBodyGyro-max()-Z
+435,Frequency,Body Gyroscope,Minimum,Gyroscope,No,No,X,fBodyGyro-min()-X
+436,Frequency,Body Gyroscope,Minimum,Gyroscope,No,No,Y,fBodyGyro-min()-Y
+437,Frequency,Body Gyroscope,Minimum,Gyroscope,No,No,Z,fBodyGyro-min()-Z
+438,Frequency,Body Gyroscope,sma,Gyroscope,No,No,,fBodyGyro-sma()
+439,Frequency,Body Gyroscope,Energy,Gyroscope,No,No,X,fBodyGyro-energy()-X
+440,Frequency,Body Gyroscope,Energy,Gyroscope,No,No,Y,fBodyGyro-energy()-Y
+441,Frequency,Body Gyroscope,Energy,Gyroscope,No,No,Z,fBodyGyro-energy()-Z
+442,Frequency,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,X,fBodyGyro-iqr()-X
+443,Frequency,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,Y,fBodyGyro-iqr()-Y
+444,Frequency,Body Gyroscope,Inter Quartile Range,Gyroscope,No,No,Z,fBodyGyro-iqr()-Z
+445,Frequency,Body Gyroscope,Entropy,Gyroscope,No,No,X,fBodyGyro-entropy()-X
+446,Frequency,Body Gyroscope,Entropy,Gyroscope,No,No,Y,fBodyGyro-entropy()-Y
+447,Frequency,Body Gyroscope,Entropy,Gyroscope,No,No,Z,fBodyGyro-entropy()-Z
+448,Frequency,Body Gyroscope,Maximum,Gyroscope,No,No,X,fBodyGyro-maxInds-X
+449,Frequency,Body Gyroscope,Maximum,Gyroscope,No,No,Y,fBodyGyro-maxInds-Y
+450,Frequency,Body Gyroscope,Maximum,Gyroscope,No,No,Z,fBodyGyro-maxInds-Z
+451,Frequency,Body Gyroscope,Mean,Gyroscope,No,No,X,fBodyGyro-meanFreq()-X
+452,Frequency,Body Gyroscope,Mean,Gyroscope,No,No,Y,fBodyGyro-meanFreq()-Y
+453,Frequency,Body Gyroscope,Mean,Gyroscope,No,No,Z,fBodyGyro-meanFreq()-Z
+454,Frequency,Body Gyroscope,Skewness,Gyroscope,No,No,X,fBodyGyro-skewness()-X
+455,Frequency,Body Gyroscope,Kurtosis,Gyroscope,No,No,X,fBodyGyro-kurtosis()-X
+456,Frequency,Body Gyroscope,Skewness,Gyroscope,No,No,Y,fBodyGyro-skewness()-Y
+457,Frequency,Body Gyroscope,Kurtosis,Gyroscope,No,No,Y,fBodyGyro-kurtosis()-Y
+458,Frequency,Body Gyroscope,Skewness,Gyroscope,No,No,Z,fBodyGyro-skewness()-Z
+459,Frequency,Body Gyroscope,Kurtosis,Gyroscope,No,No,Z,fBodyGyro-kurtosis()-Z
+460,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,8"
+461,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-9,16"
+462,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-17,24"
+463,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-25,32"
+464,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-33,40"
+465,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-41,48"
+466,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-49,56"
+467,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-57,64"
+468,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,16"
+469,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-17,32"
+470,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-33,48"
+471,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-49,64"
+472,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,24"
+473,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-25,48"
+474,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,8.1"
+475,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-9,16.1"
+476,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-17,24.1"
+477,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-25,32.1"
+478,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-33,40.1"
+479,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-41,48.1"
+480,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-49,56.1"
+481,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-57,64.1"
+482,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,16.1"
+483,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-17,32.1"
+484,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-33,48.1"
+485,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-49,64.1"
+486,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,24.1"
+487,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-25,48.1"
+488,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,8.2"
+489,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-9,16.2"
+490,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-17,24.2"
+491,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-25,32.2"
+492,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-33,40.2"
+493,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-41,48.2"
+494,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-49,56.2"
+495,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-57,64.2"
+496,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,16.2"
+497,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-17,32.2"
+498,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-33,48.2"
+499,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-49,64.2"
+500,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-1,24.2"
+501,Frequency,Body Gyroscope,Band Energy,Gyroscope,No,No,,"fBodyGyro-bandsEnergy()-25,48.2"
+502,Frequency,Body Acceleration,Mean,Accelerometer,No,Yes,,fBodyAccMag-mean()
+503,Frequency,Body Acceleration,Standard Deviation,Accelerometer,No,Yes,,fBodyAccMag-std()
+504,Frequency,Body Acceleration,Median Absolute Deviation,Accelerometer,No,Yes,,fBodyAccMag-mad()
+505,Frequency,Body Acceleration,Maximum,Accelerometer,No,Yes,,fBodyAccMag-max()
+506,Frequency,Body Acceleration,Minimum,Accelerometer,No,Yes,,fBodyAccMag-min()
+507,Frequency,Body Acceleration,sma,Accelerometer,No,Yes,,fBodyAccMag-sma()
+508,Frequency,Body Acceleration,Energy,Accelerometer,No,Yes,,fBodyAccMag-energy()
+509,Frequency,Body Acceleration,Inter Quartile Range,Accelerometer,No,Yes,,fBodyAccMag-iqr()
+510,Frequency,Body Acceleration,Entropy,Accelerometer,No,Yes,,fBodyAccMag-entropy()
+511,Frequency,Body Acceleration,Maximum,Accelerometer,No,Yes,,fBodyAccMag-maxInds
+512,Frequency,Body Acceleration,Mean,Accelerometer,No,Yes,,fBodyAccMag-meanFreq()
+513,Frequency,Body Acceleration,Skewness,Accelerometer,No,Yes,,fBodyAccMag-skewness()
+514,Frequency,Body Acceleration,Kurtosis,Accelerometer,No,Yes,,fBodyAccMag-kurtosis()
+515,Frequency,Body Acceleration,Mean,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-mean()
+516,Frequency,Body Acceleration,Standard Deviation,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-std()
+517,Frequency,Body Acceleration,Median Absolute Deviation,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-mad()
+518,Frequency,Body Acceleration,Maximum,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-max()
+519,Frequency,Body Acceleration,Minimum,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-min()
+520,Frequency,Body Acceleration,sma,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-sma()
+521,Frequency,Body Acceleration,Energy,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-energy()
+522,Frequency,Body Acceleration,Inter Quartile Range,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-iqr()
+523,Frequency,Body Acceleration,Entropy,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-entropy()
+524,Frequency,Body Acceleration,Maximum,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-maxInds
+525,Frequency,Body Acceleration,Mean,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-meanFreq()
+526,Frequency,Body Acceleration,Skewness,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-skewness()
+527,Frequency,Body Acceleration,Kurtosis,Accelerometer,No,Yes,,fBodyBodyAccJerkMag-kurtosis()
+528,Frequency,Body Gyroscope,Mean,Gyroscope,No,Yes,,fBodyBodyGyroMag-mean()
+529,Frequency,Body Gyroscope,Standard Deviation,Gyroscope,No,Yes,,fBodyBodyGyroMag-std()
+530,Frequency,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,Yes,,fBodyBodyGyroMag-mad()
+531,Frequency,Body Gyroscope,Maximum,Gyroscope,No,Yes,,fBodyBodyGyroMag-max()
+532,Frequency,Body Gyroscope,Minimum,Gyroscope,No,Yes,,fBodyBodyGyroMag-min()
+533,Frequency,Body Gyroscope,sma,Gyroscope,No,Yes,,fBodyBodyGyroMag-sma()
+534,Frequency,Body Gyroscope,Energy,Gyroscope,No,Yes,,fBodyBodyGyroMag-energy()
+535,Frequency,Body Gyroscope,Inter Quartile Range,Gyroscope,No,Yes,,fBodyBodyGyroMag-iqr()
+536,Frequency,Body Gyroscope,Entropy,Gyroscope,No,Yes,,fBodyBodyGyroMag-entropy()
+537,Frequency,Body Gyroscope,Maximum,Gyroscope,No,Yes,,fBodyBodyGyroMag-maxInds
+538,Frequency,Body Gyroscope,Mean,Gyroscope,No,Yes,,fBodyBodyGyroMag-meanFreq()
+539,Frequency,Body Gyroscope,Skewness,Gyroscope,No,Yes,,fBodyBodyGyroMag-skewness()
+540,Frequency,Body Gyroscope,Kurtosis,Gyroscope,No,Yes,,fBodyBodyGyroMag-kurtosis()
+541,Frequency,Body Gyroscope,Mean,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-mean()
+542,Frequency,Body Gyroscope,Standard Deviation,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-std()
+543,Frequency,Body Gyroscope,Median Absolute Deviation,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-mad()
+544,Frequency,Body Gyroscope,Maximum,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-max()
+545,Frequency,Body Gyroscope,Minimum,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-min()
+546,Frequency,Body Gyroscope,sma,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-sma()
+547,Frequency,Body Gyroscope,Energy,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-energy()
+548,Frequency,Body Gyroscope,Inter Quartile Range,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-iqr()
+549,Frequency,Body Gyroscope,Entropy,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-entropy()
+550,Frequency,Body Gyroscope,Maximum,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-maxInds
+551,Frequency,Body Gyroscope,Mean,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-meanFreq()
+552,Frequency,Body Gyroscope,Skewness,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-skewness()
+553,Frequency,Body Gyroscope,Kurtosis,Gyroscope,No,Yes,,fBodyBodyGyroJerkMag-kurtosis()
+554,Angle,Body Acceleration,,Accelerometer,Yes,No,,"angle(tBodyAccMean,gravity)"
+555,Angle,Body Acceleration,,Accelerometer,Yes,No,,"angle(tBodyAccJerkMean),gravityMean)"
+556,Angle,Body Gyroscope,,Gyroscope,Yes,No,,"angle(tBodyGyroMean,gravityMean)"
+557,Angle,Body Gyroscope,,Gyroscope,Yes,No,,"angle(tBodyGyroJerkMean,gravityMean)"
+558,Angle,,,,Yes,No,X,"angle(X,gravityMean)"
+559,Angle,,,,Yes,No,Y,"angle(Y,gravityMean)"
+560,Angle,,,,Yes,No,Z,"angle(Z,gravityMean)"
+561,,,,,No,No,,subject
+562,,,,,No,No,,Activity
